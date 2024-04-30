@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 const uint8_t PINA_PITCH_PHOTOTRANSISTOR = A0;
 const uint8_t PIND_PIEZO = 10;
 const uint8_t PIND_CALIBRATE_BTN = 12;
